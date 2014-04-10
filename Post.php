@@ -1,5 +1,6 @@
 <?php
 s is first
+new1
 /**
  * Class Docblock
  *

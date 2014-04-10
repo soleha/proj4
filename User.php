@@ -1,6 +1,6 @@
 <?php
-
-
+new1
+hello hello hello
 // uses passwordhasher to encrypt password
 App::uses('SimplePasswordHasher', 'Controller/Component/Auth');
 
